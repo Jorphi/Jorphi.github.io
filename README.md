@@ -1,7 +1,7 @@
 # Jordan Phillips
 *Software Engineer*
 
-# [Resume](Jordan Phillips Resume.pdf)
+# [View Resume >](Jordan Phillips Resume.pdf)
 
 # Education
 * Bachelors of Science (Computer Science), *Tennessee Technological University*, 2019-2023
@@ -28,7 +28,7 @@ This project is currently available on the iOS App Store and Google Play, and is
 
 This was my senior project at TTU. Using an Agile workflow, I lead a team of 5 peers to overhaul Urban Science's current file upload system.
 * **Companies:** Tennessee Tech University, Urban Science
-* **Technologies Used:** Python, SQL Server
+* **Technologies Used:** Python, SQL Server, Agile Methodologies
 * **Details:** Developed a Python GUI and SQL Server backend from scratch in order to enhance the workflow and file reporting for Urban Science's employees. This is currently in production at their offices in Franklin, TN.
 
 # Contact
