@@ -23,10 +23,10 @@ This project is currently available on the iOS App Store and Google Play, and is
 * **Technologies Used:** C#, Unity
 * **Details:** Hosts four different arcade-style games, each showcasing a unique visual impairment to simulate a physical impairment.
 
-# [Senior Project: SFTP Pipeline](https://play.google.com/store/apps/details?id=com.iCube.ImpairmentArcade)
+# [Senior Project: SFTP Pipeline](https://github.com/Jorphi/SFTP-Pipeline)
 [![alt text](pipelinepic.PNG)](https://github.com/Jorphi/SFTP-Pipeline)
 
-This was my senior project at TTU. Using an Agile workflow, I lead a team of 5 peers to overhaul Urban Science's current file upload system.
+This was my senior project at TTU. Using an Agile workflow, I worked a team of 5 peers to overhaul Urban Science's current file upload system.
 * **Companies:** Tennessee Tech University, Urban Science
 * **Technologies Used:** Python, SQL Server, Agile Methodologies
 * **Details:** Developed a Python GUI and SQL Server backend from scratch in order to enhance the workflow and file reporting for Urban Science's employees. This is currently in production at their offices in Franklin, TN.
