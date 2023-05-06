@@ -7,6 +7,8 @@
 * Bachelors of Science (Computer Science), *Tennessee Technological University*, 2019-2023
 * Minor in Mathematics
 
+* Currently Pursuing Masters of Science (Data Science), *University of Colorado Boulder*, 2023-Present
+
 # [Internship App 1: CPS Car Seat Safety](https://play.unity.com/mg/other/jordan-phillips-cps-car-seat-safety)
 [![alt text](carseatpic.PNG)](https://play.unity.com/mg/other/jordan-phillips-cps-car-seat-safety)
 
