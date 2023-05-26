@@ -34,7 +34,7 @@ This was my senior project at TTU. Using an Agile workflow, I worked a team of 5
 * **Details:** Developed a Python GUI and SQL Server backend from scratch in order to enhance the workflow and file reporting for Urban Science's employees. This is currently in production at their offices in Franklin, TN.
 
 # [Personal Project: Fantasy Football Web Scraper](https://github.com/Jorphi/Python_WebScraper)
-[![alt text](FFWS_image.PNG)](https://github.com/Jorphi/Python_WebScraper)
+[![alt text](FFWS_image.png)](https://github.com/Jorphi/Python_WebScraper)
 
 I started this project to gain experience in Python Web Scraping, and to familiarize myself with data collection.
 * **Company:** N/A (Personal)
